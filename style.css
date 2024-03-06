@@ -48,7 +48,7 @@ h2 {
     color: aliceblue;
     width: 96%;    
 }
-@media (max-width: 800px) {
+@media (max-width: 1500px) {
     h1 {
         font-size: 2.5rem;
         text-align: center;
